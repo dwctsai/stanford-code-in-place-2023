@@ -18,6 +18,11 @@ YouTube intro video:
 <br> 
 https://www.youtube.com/watch?v=wg3Dl4yQSMU
 
+Forbes article:
+<br>
+https://www.forbes.com/sites/michaeltnietzel/2023/06/01/stanford-universitys-free-code-in-place-course-hits-the-mark/amp/
+
+
 ## Section Slides
 
 I was a Section Leader for Code in Place 2023, leading a weekly section of students over Zoom.  The course lasted 7 weeks and covered many topics in computer science and Python.  In the live sections, we went over new concepts and worked through hands-on exercises.
